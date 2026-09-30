@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Phishing Awareness",
+    "category": "Phishing",
+    "tip": "Check unexpected senders, urgency, links and credential requests.",
+    "action": "Verify through a trusted channel."
+  },
+  {
+    "title": "Password Security",
+    "category": "Passwords",
+    "tip": "Use unique long passwords or passphrases.",
+    "action": "Use a password manager."
+  },
+  {
+    "title": "MFA Awareness",
+    "category": "MFA",
+    "tip": "Multi-factor authentication adds another protection layer.",
+    "action": "Enable MFA where available."
+  },
+  {
+    "title": "Safe Browsing",
+    "category": "Web Security",
+    "tip": "Avoid unexpected links and verify websites before entering information.",
+    "action": "Use trusted sources."
+  },
+  {
+    "title": "Ransomware Awareness",
+    "category": "Ransomware",
+    "tip": "Backups, patching and least privilege reduce risk.",
+    "action": "Keep important data backed up."
+  }
+]

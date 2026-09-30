@@ -1,0 +1,66 @@
+[
+    {
+        "asset_id": "ASSET-001",
+        "asset_name": "Finance-Laptop-01",
+        "owner": "Finance Department",
+        "email_domain": "example.com",
+        "software_list": [
+            {
+                "name": "Chrome",
+                "version": "120"
+            },
+            {
+                "name": "Microsoft Office",
+                "version": "2021"
+            }
+        ]
+    },
+    {
+        "asset_id": "ASSET-002",
+        "asset_name": "HR-Laptop-01",
+        "owner": "HR Department",
+        "email_domain": "example.org",
+        "software_list": [
+            {
+                "name": "Chrome",
+                "version": "121"
+            },
+            {
+                "name": "Adobe Reader",
+                "version": "2023"
+            }
+        ]
+    },
+    {
+        "asset_id": "ASSET-003",
+        "asset_name": "IT-Admin-01",
+        "owner": "IT Department",
+        "email_domain": "example.net",
+        "software_list": [
+            {
+                "name": "Chrome",
+                "version": "122"
+            },
+            {
+                "name": "Python",
+                "version": "3.10"
+            }
+        ]
+    },
+    {
+        "asset_id": "ASSET-004",
+        "asset_name": "Management-Laptop-01",
+        "owner": "Management",
+        "email_domain": "example.com",
+        "software_list": [
+            {
+                "name": "Chrome",
+                "version": "120"
+            },
+            {
+                "name": "Microsoft Office",
+                "version": "2021"
+            }
+        ]
+    }
+]
